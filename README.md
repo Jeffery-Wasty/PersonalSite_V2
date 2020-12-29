@@ -1,13 +1,12 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
 <h1 align="center">
-  Gatsby minimal starter
+  Personal Website Version 2
 </h1>
 
-## 🚀 Quick start
+## Welcome
+
+This is the second version of my personal website, this time using Gatsby, hosted on Netlify.
+
+<!-- ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
 
@@ -45,4 +44,4 @@
 
     - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter) -->
