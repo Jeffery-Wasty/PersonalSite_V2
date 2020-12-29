@@ -1,5 +1,8 @@
 module.exports = {
-    plugins: [
-
-    ]
-}
+  siteMetadata: {
+    title: 'My Site',
+    siteUrl: 'https://jefferywasty.me',
+    description: 'Personal website',
+    twitterUsername: '@JeffWasty',
+  },
+};
